@@ -1,40 +1,25 @@
-# Welcome to your Lovable project
+# Civil-Tech Engineering Consultancy Website
 
-## Project info
+## Overview
 
-**URL**: https://lovable.dev/projects/af616e5d-4dd2-40da-8e56-7028650a2458
+This is the official website for Civil-Tech, a civil and environmental engineering consultancy specializing in DPR (Detailed Project Report) services, PMC (Project Management Consultancy), and execution services for waterbody rejuvenation, sanitation, storm-water management, and sustainable infrastructure projects across Karnataka.
+
+## Features
+
+- Modern, responsive design built with React and TypeScript
+- UI components using Shadcn UI and Tailwind CSS
+- Interactive animations with Framer Motion
+- Optimized for performance and SEO
+- Contact form integration with EmailJS
+
+## Services Offered
+
+- **Waterbody Rejuvenation Works**: Restoration and conservation of lakes, ponds, check-dams, and rainwater harvesting structures
+- **Water Supply & Sanitation Works**: DPR preparation and execution for drinking water supply and underground drainage systems
+- **Storm-Water Design & Flood Studies**: Comprehensive hydrological analysis and flood mitigation planning
+- **Building Design & Renovation Works**: Architectural and structural design with sustainable practices
 
 ## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/af616e5d-4dd2-40da-8e56-7028650a2458) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
 **Edit a file directly in GitHub**
 
@@ -50,24 +35,43 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## Tech Stack
 
-This project is built with:
+- **Frontend Framework**: React with TypeScript
+- **Styling**: Tailwind CSS with Shadcn UI components
+- **Routing**: React Router DOM
+- **Animations**: Framer Motion
+- **Form Handling**: React Hook Form with Zod validation
+- **Build Tool**: Vite
+- **Package Manager**: npm/bun
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Project Structure
 
-## How can I deploy this project?
+```
+├── public/             # Static assets
+├── src/
+│   ├── assets/         # Images and other assets
+│   ├── components/     # Reusable UI components
+│   │   ├── about/      # About page components
+│   │   ├── common/     # Common components (SEO, etc.)
+│   │   ├── home/       # Home page components
+│   │   └── ui/         # Shadcn UI components
+│   ├── hooks/          # Custom React hooks
+│   ├── lib/            # Utility functions
+│   ├── pages/          # Page components
+│   ├── App.tsx         # Main application component
+│   └── main.tsx        # Application entry point
+├── .gitignore
+├── package.json
+├── tailwind.config.ts  # Tailwind CSS configuration
+├── tsconfig.json       # TypeScript configuration
+└── vite.config.ts      # Vite configuration
+```
 
-Simply open [Lovable](https://lovable.dev/projects/af616e5d-4dd2-40da-8e56-7028650a2458) and click on Share -> Publish.
+## Contact
 
-## Can I connect a custom domain to my Lovable project?
+For inquiries about the website or Civil-Tech services, please visit the Contact page or email at info@civil-tech.com.
 
-Yes, you can!
+## License
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
