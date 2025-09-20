@@ -31,6 +31,8 @@ import project43 from "@/assets/projects/Halikere_Lake/Halekere_plan-TP.jpg";
 import project31 from "@/assets/projects/Kodihalli_lake/project-31.jpeg";
 import project32 from "@/assets/projects/Kodihalli_lake/project-32.jpeg";
 import project33 from "@/assets/projects/Kodihalli_lake/project-33.jpeg";
+import project51 from "@/assets/projects/Chakanahalli _Lake/project-51.jpg";
+import project61 from "@/assets/projects/Malur_Lake/project-61.jpg";
 import SEO from "@/components/common/SEO";
 
 const Projects = () => {
@@ -154,7 +156,7 @@ const Projects = () => {
       location: "Ramanagara, Karnataka",
       duration: "14 months",
       budget: "18 Crores",
-      image: project2,
+      image: project51,
       description:
         "Detailed DPR and rejuvenation of Chakanahalli Lake with sustainable and compliant solutions.",
       detailedDescription:
@@ -172,7 +174,7 @@ const Projects = () => {
         "Improved aquatic ecosystem",
         "Sustainable waste-weir improvements",
       ],
-      gallery: [project1, project2, project3],
+      gallery: [project51, project2, project3],
     },
     {
       id: 6,
@@ -182,7 +184,7 @@ const Projects = () => {
       location: "Bengaluru Rural, Karnataka",
       duration: "16 months",
       budget: "20 Crores",
-      image: project3,
+      image: project61,
       description:
         "Comprehensive DPR and rejuvenation plan for Malur Lake focusing on sustainability and recharge.",
       detailedDescription:
@@ -200,7 +202,7 @@ const Projects = () => {
         "Sedimentation control measures",
         "Planned ecological restoration",
       ],
-      gallery: [project1, project2, project3],
+      gallery: [project61, project1, project2],
     },
   ];
 
