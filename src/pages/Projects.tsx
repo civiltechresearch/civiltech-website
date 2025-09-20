@@ -25,9 +25,12 @@ import project10 from "@/assets/projects/Hosakote_chikkere/project-10.jpg";
 import project11 from "@/assets/projects/Hosakote_chikkere/Cathment_map.jpeg";
 import project12 from "@/assets/projects/Hosakote_chikkere/Hoskote_chikkere_Tank_TP.jpg";
 import project13 from "@/assets/projects/Hosakote_chikkere/Hoskote_chikkere_lake_CP.jpg";
-import project31 from "@/assets/projects/Halikere_Lake/project-31.jpg";
-import project32 from "@/assets/projects/Halikere_Lake/Halekere-Concept-plan-CP.jpg";
-import project33 from "@/assets/projects/Halikere_Lake/Halekere_plan-TP.jpg";
+import project41 from "@/assets/projects/Halikere_Lake/project-31.jpg";
+import project42 from "@/assets/projects/Halikere_Lake/Halekere-Concept-plan-CP.jpg";
+import project43 from "@/assets/projects/Halikere_Lake/Halekere_plan-TP.jpg";
+import project31 from "@/assets/projects/Kodihalli_lake/project-31.jpeg";
+import project32 from "@/assets/projects/Kodihalli_lake/project-32.jpeg";
+import project33 from "@/assets/projects/Kodihalli_lake/project-33.jpeg";
 import SEO from "@/components/common/SEO";
 
 const Projects = () => {
@@ -123,7 +126,7 @@ const Projects = () => {
       location: "Ramanagara, Karnataka",
       duration: "10 months",
       budget: "12 Crores",
-      image: project1,
+      image: project41,
       description:
         "Rejuvenation of Halekere Lake with structural and ecological interventions.",
       detailedDescription:
@@ -141,7 +144,7 @@ const Projects = () => {
         "Community-driven conservation",
         "Habitat restoration for native species",
       ],
-      gallery: [project1, project2, project3],
+      gallery: [project41, project42, project43],
     },
     {
       id: 5,
