@@ -25,6 +25,9 @@ import project10 from "@/assets/projects/Hosakote_chikkere/project-10.jpg";
 import project11 from "@/assets/projects/Hosakote_chikkere/Cathment_map.jpeg";
 import project12 from "@/assets/projects/Hosakote_chikkere/Hoskote_chikkere_Tank_TP.jpg";
 import project13 from "@/assets/projects/Hosakote_chikkere/Hoskote_chikkere_lake_CP.jpg";
+import project31 from "@/assets/projects/Halikere_Lake/project-31.jpg";
+import project32 from "@/assets/projects/Halikere_Lake/Halekere-Concept-plan-CP.jpg";
+import project33 from "@/assets/projects/Halikere_Lake/Halekere_plan-TP.jpg";
 import SEO from "@/components/common/SEO";
 
 const Projects = () => {
@@ -92,7 +95,7 @@ const Projects = () => {
       location: "Hoskote, Karnataka",
       duration: "12 months",
       budget: "15 Crores",
-      image: project3,
+      image: project31,
       description:
         "Execution of DPR recommendations for Kodihalli Lake including bund strengthening and flood management.",
       detailedDescription:
@@ -110,7 +113,7 @@ const Projects = () => {
         "Flood resilience measures",
         "Improved water quality",
       ],
-      gallery: [project1, project2, project3],
+      gallery: [project31, project32, project33],
     },
     {
       id: 4,
