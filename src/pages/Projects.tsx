@@ -17,7 +17,14 @@ import {
 import project1 from "@/assets/project-1.jpg";
 import project2 from "@/assets/project-2.jpg";
 import project3 from "@/assets/project-3.jpg";
-import project11 from "@/assets/project-11.jpg";
+import project20 from "@/assets/projects/Kodihalli_lake_survery/bannerImage.jpeg";
+import project21 from "@/assets/projects/Kodihalli_lake_survery/Kodihalli Lake-CP.jpg";
+import project22 from "@/assets/projects/Kodihalli_lake_survery/Capture.jpeg";
+import project23 from "@/assets/projects/Kodihalli_lake_survery/Kodihalli Lake-TP.jpg";
+import project10 from "@/assets/projects/Hosakote_chikkere/project-10.jpg";
+import project11 from "@/assets/projects/Hosakote_chikkere/Cathment_map.jpeg";
+import project12 from "@/assets/projects/Hosakote_chikkere/Hoskote_chikkere_Tank_TP.jpg";
+import project13 from "@/assets/projects/Hosakote_chikkere/Hoskote_chikkere_lake_CP.jpg";
 import SEO from "@/components/common/SEO";
 
 const Projects = () => {
@@ -33,7 +40,7 @@ const Projects = () => {
       location: "Hoskote, Karnataka",
       duration: "18 months",
       budget: "25 Crores",
-      image: project11,
+      image: project10,
       description:
         "Rejuvenation of Hosakote-Chikkakere Lake with bund formation, waste-weir improvements, and ecological restoration.",
       detailedDescription:
@@ -51,7 +58,7 @@ const Projects = () => {
         "Enhanced biodiversity and groundwater recharge",
         "Community-driven lake conservation",
       ],
-      gallery: [project1, project2, project11],
+      gallery: [project11, project12, project13],
     },
     {
       id: 2,
@@ -61,7 +68,7 @@ const Projects = () => {
       location: "Hoskote, Karnataka",
       duration: "6 months",
       budget: "5 Crores",
-      image: project2,
+      image: project20,
       description:
         "Topographic and hydrological survey with DPR preparation for Kodihalli Lake rejuvenation.",
       detailedDescription:
@@ -75,7 +82,7 @@ const Projects = () => {
         "Water quality assessment",
         "Baseline ecological study",
       ],
-      gallery: [project1, project2, project3],
+      gallery: [project21, project22, project23],
     },
     {
       id: 3,
