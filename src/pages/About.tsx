@@ -88,7 +88,7 @@ const About = () => {
       position: "Project Manager",
       education: "M.Tech Civil Engineering",
       experience: "13+ Years",
-      specialization: "Project Coordination & Compliance",
+      specialization: "Project Coordinator",
     },
     {
       name: "Mr. Asif",
