@@ -154,9 +154,7 @@ const Services = () => {
               Our Services
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              Civil-Tech specializes in preparing Detailed Project Reports (DPR)
-              for water systems, drainage, and infrastructure projects —
-              delivering sustainable and regulatory-compliant solutions.
+              Specialized in DPR preparation, Execution works and PMC services for water body rejuvenation , water supply & sanitation works, Strom water management and infrastructure across India
             </p>
           </div>
         </div>
@@ -285,7 +283,7 @@ const Services = () => {
         <div className="section-container">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
-              Who We Work With
+              Clients & Collaborators
             </h2>
             <p className="text-xl text-muted-foreground">
               Delivering DPRs and engineering consultancy across diverse sectors

@@ -106,10 +106,10 @@ const Home = () => {
   ];
 
   const stats = [
-    { number: 10, suffix: "+", label: "DPRs Delivered" },
-    { number: 3, suffix: "+", label: "Ongoing Project" },
-    { number: 10, suffix: "+", label: "Years of Expertise" },
-    { number: 20, suffix: "+", label: "Engineers & Specialists" },
+    { number: 15, suffix: "+", label: "DPRs Delivered" },
+    { number: 6, suffix: "+", label: "Ongoing Project" },
+    { number: 7, suffix: "+", label: "Years of Expertise" },
+    { number: 10, suffix: "+", label: "Engineers & Specialists" },
     // { number: 100, suffix: "%", label: "Client Satisfaction" },
   ];
 
