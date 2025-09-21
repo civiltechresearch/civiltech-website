@@ -413,7 +413,7 @@ const Projects = () => {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
                 <div className="text-center">
                   <div className="text-4xl md:text-5xl font-bold text-primary mb-2">
-                    10+
+                    15+
                   </div>
                   <div className="text-muted-foreground">
                     Projects Completed
@@ -421,13 +421,13 @@ const Projects = () => {
                 </div>
                 <div className="text-center">
                   <div className="text-4xl md:text-5xl font-bold text-primary mb-2">
-                    3+
+                    6+
                   </div>
                   <div className="text-muted-foreground">Ongoing Project</div>
                 </div>
                 <div className="text-center">
                   <div className="text-4xl md:text-5xl font-bold text-primary mb-2">
-                    20+
+                    10+
                   </div>
                   <div className="text-muted-foreground">
                     Engineers & Specialists
