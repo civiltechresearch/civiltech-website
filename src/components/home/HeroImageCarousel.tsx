@@ -11,9 +11,11 @@ import heroBanner2 from "@/assets/hero-banner-2.jpg"
 import heroBanner3 from "@/assets/hero-banner-3.jpg"
 import heroBanner4 from "@/assets/hero-banner-4.jpg"
 import heroBanner5 from "@/assets/hero-banner-5.jpg"
+import banner1x from "@/assets/banner-1x.jpg"
+import banner2x from "@/assets/banner-2x.jpg"
 
 const HeroImageCarousel = () => {
-  const images = [heroBanner3, heroBanner4, heroBanner2, heroBanner5]
+  const images = [ heroBanner2, banner1x, banner2x, heroBanner5]
 
   return (
     <div className="absolute inset-0 z-0">
