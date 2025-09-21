@@ -94,8 +94,8 @@ const Contact = () => {
       icon: MapPin,
       title: "Our Office",
       details: [
-        "#17/U-1, S.K. Building, Hennur Bande, Airport Road",
-        "Bengaluru – 560043",
+        "# 141, Ramaiah garden, Kadugodi",
+        "Bengaluru – 560067",
         "Karnataka, India",
       ],
     },
