@@ -67,7 +67,13 @@ const Navigation = () => {
                   isActivePath(item.path)
                     ? "text-primary border-b-2 border-primary pb-1"
                     : "text-foreground"
-                }`}
+                }
+                ${location.pathname !== "/"
+                  ? "text-foreground"
+                  : isScrolled
+                  ? "text-foreground"
+                  : "text-primary-foreground"}
+                `}
               >
                 {item.name}
               </Link>
