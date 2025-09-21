@@ -19,7 +19,7 @@ interface SEOProps {
 
 const SEO: React.FC<SEOProps> = ({
   title = "CivilTech",
-  description = "CivilTech: Experts in environmental and civil engineering consultancy specializing in DPR services for Storm Water Drains, Lakes, Tanks, and Drinking Water Supply across Karnataka.",
+  description = "CivilTech: Experts in environmental and civil engineering consultancy specializing in DPR services for Storm Water Drains, Lakes, Tanks, and Drinking Water Supply across India.",
   type = "website",
   name = "CivilTech",
   imageUrl, // will default to logoCivil if not provided

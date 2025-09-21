@@ -420,9 +420,6 @@ const Contact = () => {
             <h2 className="text-3xl font-bold text-primary mb-4">
               Visit Our Office
             </h2>
-            <p className="text-xl text-muted-foreground">
-              Located on Airport Road, Bengaluru
-            </p>
           </div>
 
           <Card className="card-corporate overflow-hidden">

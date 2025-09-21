@@ -41,70 +41,71 @@ const About = () => {
   ];
 
   const team = [
-    {
-      name: "Mr. Awais",
-      position: "Civil Engineer",
-      education: "B.E. Civil Engineering",
-      experience: "8+ Years",
-      specialization: "Site Supervision & Execution",
-    },
-    {
-      name: "Mr. P. Halsur",
-      position: "Senior Consultant",
-      education: "Water Resources Specialist",
-      experience: "20+ Years",
-      specialization: "Storm Water & Hydrology",
-    },
-    {
-      name: "Mr. M. Rajput",
-      position: "Technical Expert",
-      education: "Water Resources Engineering",
-      experience: "15+ Years",
-      specialization: "Drainage & Water Systems",
-    },
-    {
-      name: "Mr. Veerabadra",
-      position: "Environmental Specialist",
-      education: "Environmental Sciences",
-      experience: "12+ Years",
-      specialization: "Ecology & Impact Assessments",
-    },
-    {
-      name: "Mr. Zubair",
-      position: "Survey Engineer",
-      education: "Diploma in Surveying",
-      experience: "7+ Years",
-      specialization: "DGPS & Topographic Survey",
-    },
-    {
-      name: "Mr. Lalsab",
-      position: "Hydraulic Modeller",
-      education: "Civil Engineering",
-      experience: "10+ Years",
-      specialization: "Hydrological & Hydraulic Studies",
-    },
-    {
-      name: "Mr. Abbas",
-      position: "Project Manager",
-      education: "M.Tech Civil Engineering",
-      experience: "13+ Years",
-      specialization: "Project Coordinator",
-    },
-    {
-      name: "Mr. Asif",
-      position: "Field Engineer",
-      education: "B.E. Civil Engineering",
-      experience: "6+ Years",
-      specialization: "On-site Execution",
-    },
-    {
-      name: "Mr. Mallikarjun",
-      position: "Land Surveyor",
-      education: "Diploma in Land Survey",
-      experience: "9+ Years",
-      specialization: "Topographic & Boundary Survey",
-    },
-  ];
+  {
+    name: "Mr. Awais",
+    position: "Managing Director",
+    education: "B.E Civil Engineer",
+    experience: "5+ Years",
+    specialization: "Civil & Water Resources Engineer",
+  },
+  {
+    name: "Mr. P. Halsur",
+    position: "Project Engineer",
+    education: "MTech Civil Engineer",
+    experience: "7+ Years",
+    specialization: "Water Resources Engineer",
+  },
+  {
+    name: "Mr. M. Rajput",
+    position: "Project Engineer",
+    education: "PhD in Oceanology",
+    experience: "7+ Years",
+    specialization: "Water Resources Engineer",
+  },
+  {
+    name: "Mr. Veerabadra",
+    position: "Project Engineer",
+    education: "MTech Environmental Engineer",
+    experience: "6+ Years",
+    specialization: "Environmental Engineer",
+  },
+  {
+    name: "Mr. Zubair",
+    position: "Project Manager",
+    education: "B.E Civil Engineer",
+    experience: "10+ Years",
+    specialization: "Civil Engineer",
+  },
+  {
+    name: "Mr. Lalsab",
+    position: "Project Engineer",
+    education: "MTech in Structural Engineering",
+    experience: "4+ Years",
+    specialization: "Structural Engineer",
+  },
+  {
+    name: "Mr. Abbas",
+    position: "Junior Engineer",
+    education: "Diploma",
+    experience: "4+ Years",
+    specialization: "Site Supervisor",
+  },
+  {
+    name: "Mr. Asif",
+    position: "Junior Engineer",
+    education: "Diploma",
+    experience: "10+ Years",
+    specialization: "Site Supervisor",
+  },
+  {
+    name: "Mr. Mallikarjun",
+    position: "Surveyor",
+    education: "Diploma",
+    experience: "10+ Years",
+    specialization: "Land Surveyor",
+  },
+];
+
 
   return (
     <div className="min-h-screen pt-20">
@@ -129,7 +130,7 @@ const About = () => {
               Civil-Tech is a consultancy firm delivering high-quality Detailed
               Project Reports (DPR) for storm water drains, lakes & tanks,
               drinking water supply, underground drainage, and building
-              construction projects across Karnataka.
+              construction projects across India.
             </p>
           </div>
         </div>

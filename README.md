@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the official website for Civil-Tech, a civil and environmental engineering consultancy specializing in DPR (Detailed Project Report) services, PMC (Project Management Consultancy), and execution services for waterbody rejuvenation, sanitation, storm-water management, and sustainable infrastructure projects across Karnataka.
+This is the official website for Civil-Tech, a civil and environmental engineering consultancy specializing in DPR (Detailed Project Report) services, PMC (Project Management Consultancy), and execution services for waterbody rejuvenation, sanitation, storm-water management, and sustainable infrastructure projects across India.
 
 ## Features
 

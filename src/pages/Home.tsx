@@ -134,7 +134,7 @@ const Home = () => {
     <div className="min-h-screen">
       <SEO
         title="CivilTech"
-        description="CivilTech: Experts in environmental and civil engineering consultancy specializing in DPR services for Storm Water Drains, Lakes, Tanks, and Drinking Water Supply across Karnataka."
+        description="CivilTech: Experts in environmental and civil engineering consultancy specializing in DPR services for Storm Water Drains, Lakes, Tanks, and Drinking Water Supply across India."
         keywords={[
           "environmental engineering",
           "civil engineering consultancy",
@@ -171,7 +171,7 @@ const Home = () => {
                 execution services{" "}
               </span>
               for waterbody rejuvenation, sanitation, storm-water management,
-              and sustainable infrastructure across Karnataka.
+              and sustainable infrastructure across India.
             </p>
             {/* <p className="text-lg  sm:hidden md:text-2xl text-primary-foreground/85 max-w-3xl mx-auto leading-relaxed font-light">
   DPR, PMC, and execution for waterbody and infrastructure projects in Karnataka.
@@ -232,8 +232,7 @@ const Home = () => {
               Our Core Expertise
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Specialized in preparing DPRs for water, environment, and
-              infrastructure projects across Karnataka and beyond
+              Specialized in DPR preparation, Execution works and PMC services for water body rejuvenation , water supply & sanitation works, Strom water management and infrastructure across India
             </p>
           </div>
 
