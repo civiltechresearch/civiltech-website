@@ -14,6 +14,9 @@ import heroBanner from "@/assets/hero-banner.jpg";
 import project1 from "@/assets/project-1.jpg";
 import project2 from "@/assets/project-2.jpg";
 import project3 from "@/assets/project-3.jpg";
+import project10 from "@/assets/projects/Hosakote_chikkere/project-10.jpg";
+import project20 from "@/assets/projects/Kodihalli_lake_survery/bannerImage.jpeg";
+import project41 from "@/assets/projects/Halikere_Lake/project-31.jpg";
 import React, {
   useRef,
   useImperativeHandle,
@@ -83,7 +86,7 @@ const Home = () => {
       id: 1,
       title: "Hosakote Lake Rejuvenation",
       category: "Government",
-      image: project1,
+      image: project10,
       description:
         "Rejuvenation DPR and execution with bund strengthening and ecological restoration in Hoskote, Karnataka.",
     },
@@ -91,7 +94,7 @@ const Home = () => {
       id: 2,
       title: "Kodihalli Lake DPR & Rejuvenation",
       category: "Government",
-      image: project2,
+      image: project20,
       description:
         "Comprehensive DPR and on-ground rejuvenation works including DGPS survey and flood resilience measures.",
     },
@@ -99,7 +102,7 @@ const Home = () => {
       id: 3,
       title: "Halekere Lake Rejuvenation",
       category: "Government",
-      image: project3,
+      image: project41,
       description:
         "Lake rejuvenation project in Ramanagara district with ecological restoration, and community-driven conservation.",
     },
