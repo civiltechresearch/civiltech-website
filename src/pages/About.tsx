@@ -128,7 +128,7 @@ const About = () => {
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
               Civil-Tech is a consultancy firm delivering high-quality Detailed
-              Project Reports (DPR) for storm water drains, lakes & tanks,
+              Project Reports for storm water drains, lakes & tanks,
               drinking water supply, underground drainage, and building
               construction projects across India.
             </p>
@@ -168,7 +168,7 @@ const About = () => {
               <Card className="card-corporate p-6 text-center">
                 <CardContent className="p-0">
                   <div className="text-3xl font-bold text-primary mb-2">
-                    10+
+                    7+
                   </div>
                   <div className="text-muted-foreground">
                     Years of Experience
@@ -178,7 +178,7 @@ const About = () => {
               <Card className="card-corporate p-6 text-center">
                 <CardContent className="p-0">
                   <div className="text-3xl font-bold text-primary mb-2">
-                    10+
+                    15+
                   </div>
                   <div className="text-muted-foreground">
                     Projects Delivered
@@ -188,7 +188,7 @@ const About = () => {
               <Card className="card-corporate p-6 text-center">
                 <CardContent className="p-0">
                   <div className="text-3xl font-bold text-primary mb-2">
-                    20+
+                    10+
                   </div>
                   <div className="text-muted-foreground">
                     Engineers & Specialists
