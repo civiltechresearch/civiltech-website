@@ -33,7 +33,9 @@ import project32 from "@/assets/projects/Kodihalli_lake/project-32.jpeg";
 import project33 from "@/assets/projects/Kodihalli_lake/project-33.jpeg";
 import project51 from "@/assets/projects/Chakanahalli _Lake/project-51.jpg";
 import project61 from "@/assets/projects/Malur_Lake/project-61.jpg";
-import SEO from "@/components/common/SEO";
+import project30x from "@/assets/projects/Rain_water_harvesting/rain_water_harvesting_banner.jpg";
+import project31x from "@/assets/projects/Rain_water_harvesting/Capture_31.jpg"
+import SEO from "@/components/common/SEO";  
 
 const Projects = () => {
   const [activeFilter, setActiveFilter] = useState("All");
@@ -93,33 +95,33 @@ const Projects = () => {
       gallery: [project21, project22, project23],
     },
     {
-      id: 3,
-      title: "Kodihalli Lake Rejuvenation",
-      category: "Government",
-      client: "Minor Irrigation Department, Hoskote",
-      location: "Hoskote, Karnataka",
-      duration: "12 months",
-      budget: "15 Crores",
-      image: project31,
-      description:
-        "Execution of DPR recommendations for Kodihalli Lake including bund strengthening and flood management.",
-      detailedDescription:
-        "Strengthening of bunds, waste-weir improvements, sediment management, and flood resilience measures to restore Kodihalli Lake’s ecological balance and water quality.",
-      services: [
-        "Lake Rejuvenation",
-        "Flood Management",
-        "Water Quality Improvement",
-      ],
-      status: "Ongoing",
-      year: "2024",
-      highlights: [
-        "Bund strengthening and waste-weir development",
-        "Sedimentation management",
-        "Flood resilience measures",
-        "Improved water quality",
-      ],
-      gallery: [project31, project32, project33],
-    },
+  id: 3,
+  title: "Rain Water Harvesting – Banaswadi, Bengaluru",
+  category: "Government",
+  client: "Minor Irrigation Department, Bengaluru",
+  location: "Banaswadi, Bengaluru, Karnataka",
+  duration: "12 months",
+  budget: "15 Crores",
+  image: project30x,
+  description:
+    "Implementation of rain water harvesting systems in Banaswadi, Bengaluru to enhance groundwater recharge and ensure sustainable water management.",
+  detailedDescription:
+    "The project focuses on constructing rain water harvesting structures across Banaswadi for effective groundwater recharge, flood resilience, and eco-friendly water management. The initiative includes bund strengthening, sediment management, and measures to improve water quality and sustainability in the urban ecosystem.",
+  services: [
+    "Rain Water Harvesting",
+    "Groundwater Recharge",
+    "Flood Management",
+  ],
+  status: "Ongoing",
+  year: "2024",
+  highlights: [
+    "Construction of advanced rain water harvesting structures",
+    "Significant improvement in groundwater recharge",
+    "Flood resilience and sediment management solutions",
+    "Promotion of sustainable and eco-friendly water practices",
+  ],
+  gallery: [project31x],
+},
     {
       id: 4,
       title: "Halekere Lake Rejuvenation",
@@ -174,7 +176,7 @@ const Projects = () => {
         "Improved aquatic ecosystem",
         "Sustainable waste-weir improvements",
       ],
-      gallery: [project51, project2, project3],
+      gallery: [project51, project32, project33],
     },
     {
       id: 6,
@@ -202,7 +204,7 @@ const Projects = () => {
         "Sedimentation control measures",
         "Planned ecological restoration",
       ],
-      gallery: [project61, project1, project2],
+      gallery: [project61, project32, project33],
     },
   ];
 
